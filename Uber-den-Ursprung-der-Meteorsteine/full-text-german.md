@@ -2,6 +2,10 @@
 
 ## Von P. A. Kesselmeyer.
 
+### Frankfurt A. M. 1860.
+
+### Druck und Verlag von Heinrich Ludwig Brönner.
+
 Tafel XII. - XIV.
 
 A. bedeutet: Arago, Astronomie populaire; Paris u. Leipzig 1857.
