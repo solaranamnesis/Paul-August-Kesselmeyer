@@ -180,4 +180,20 @@ Aber auch noch eine andere Erscheinung muss eine so plötzliche Verdichtung namh
 
 *) G. 68. 1821. Fol. 369.
 
+Gegen die hier entwickelte Ansicht, dass die Meteorsteine einem Uebergang aus dem gasförmigen Zustand in den festen in den höheren Schichten unserer Atmosphäre ihr Dasein zu verdanken hätten, hat man eingewendet, dass die dabei stattfindende Wärmeentwickelung eine ganz ungeheure sein müsse, und dass man dennoch beim Herabkommen der Steine, ausser ihrer eigenen Wärme, durchaus nichts davon gewahr werde. Allein wir müssen bedenken, dass jene Umwandlung nicht allein höchst wahrscheinlich in einer sehr bedeutenden Entfernung von der Oberfläche unserer Erde vor sich geht, sondern auch in einem Mittel, das als der allerschlechteste Wärmeleiter bekannt ist. Nur durch Strömungen, nicht durch Leitung, vermag die Wärme in luftförmigen Mitteln mit einiger Geschwindigkeit sich zu verbreiten. Die Strömung der durch Hitze erwärmten und erleichterten Luft geht aber nach bekannten Naturgesetzen nur nach oben, d. h. in unserem Falle, nach der dem freien Weltraum zugekehrten Seite. Also nicht nach unserer Erde zu. Es darf uns daher auch nicht wundern, wenn wir von jenen Wärmemengen, wie sie im Augenblick der Verdichtung nothwendig frei werden müssen, bei dem nun unmittelbar erfolgenden Niederfall der Steine auf unserer Erde nichts gewahr werden. Ob aber dann später nicht auch jene Wärme allmählich bis zur Oberfläche unserer Erde sich verbreite, und dann auch hier durch ungewöhnliche und ausserordentliche Temperaturverhältnisse sich kundgebe: dieses ist eine Frage, die vielleicht nicht so ganz unbedingt zu verneinen sein dürfte. Im Gegenteil scheint sie manche Wahrscheinlichkeit für sich haben. So fanden z. B. bei uns in Europa in den Monaten August und November des Jahres 1810 die Steinfälle von Tipperary, Chersonville und Cap Matapan statt. Auch aus Ostindien und Nordamerika ward von Solchen berichtet. Das Ende des Monates December zeichnete sich aber in demselben Jahre in fast allen Gegenden Europas durch ungewöhnliche Wärme, durch milde Frühlingsluft und durch zahlreiche, von Blitz und Donner begleitete Gewitterstürme aus. Auch in dem Jahre 1811 gewahren wir ein ähnliches Verhältniss.* Bekannt ist dasselbe durch seinen heissen Sommer und durch seinen warmen Herbst: in den Monaten März nnd Juli hatten Steinfälle in Russland und in Spanien stattgefunden. Nicht weniger auffallend waren die Temperaturverhältnisse des Jahres 1821. Der Sommer war ein sehr heisser, und selbst Ende December, so wie im Anfung des Januars 1822 war die Luft so mild, dass allenthalben die Vegetation bedeutend vorgeschritten. Am 15. Juni desselben Jahres (1821) hatte der grosse Steinfall von Juvinas* stattgefunden. Dagegen blieb Europa vom März 1798 an, wo der Steinfall zu Sales bei Lyon statt hatte, durch die Jahre 1798, 1799, 1800 und 1801 von ähnlichen Naturerscheinungen gänzlich befreit, und des Winters von 1798 auf 1799 sowohl, als des Winters von 1799 auf 1800* wird als sehr gestrenger Herren Erwähnung gethan. Ob diese Tatsachen nun wirklich auf einen tieferen Zusammenhang zwischen Meteorsteinfällen und den Temperaturverhältnissen unserer Erde in der oben erwähnten Weise sich gründen, ist bei den wenigen Beobachtungen, die man bis jetzt noch hierüber zu besitzen scheint, allerdings schwer zu ermitteln. Aber die gegebenen Andeutungen reichen hin, um einen solchen Zusammenhang nicht von vornherein als völlig unmöglich und unwahrscheinlich zu verwerfen.
+
+*) G. 58. 1818. Fol. 289.
+
+*) G. 29. 1808. Fol. 354. -. B. Fol. 27.
+
+*) G. 16. 1804. Fol. 44.
+
+*) WA. 39. 1860. Fol. 522.
+
+*) G. 41. 1812. Fol. 88.
+
+*) G. 72. 1822. Fol. 73.
+
+*) G. 7. 1801. Fol. 33.
+
 ...
