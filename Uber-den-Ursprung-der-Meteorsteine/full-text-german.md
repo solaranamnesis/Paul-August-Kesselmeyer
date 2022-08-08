@@ -226,4 +226,86 @@ In ähnlicher Weise aber, wie bei uns die Alpen, so scheinen auch in Südfrankre
 
 So werden wir denn durch alle diese Umstände unwillkührlich nach einer bestimmten Richtung hingewiesen, aus welcher die Meteorsteine zu stammen scheinen; und diese Richtung ist - wenigstens für unser westliches Europa - keine andere als die süd-südöstliche. Befragen wir freilich in dieser Beziehung die Berichte, welche wir über wirklich beobachtete Meteorsteinfälle besitzen, so hat es allerdings den Anschein, als ob diese die eben ausgesprochene Ansicht auch nicht im Entferntesten unterstützten. Nach ihnen scheinen die Meteorsteine so ziemlich aus allen vier Himmelsgegenden bei uns anzukommen. Allein untersuchen wir die Sache etwas näher, so werden wir finden, dass trotzdem eine gewisse vorherrschende Richtung durchaus nicht zu verkennen ist; ohnerachtet es bei diesen Berichten häufig völlig unklar ist, ob bei Angabe einer Richtung diejenige gemeint ist, in der das Meteor selbst daherzog, oder nur diejenige, in welcher die Steine auf die Erde herabfielen. Beides sind aber begreiflicherweise zwei ganz verschiedene Ereignisse, die bei Berichten und Angaben nicht mit einander verwechselt werden sollten. Denn ein Meteor kann z. B. sehr wohl seinen Lauf von Osten her genommen haben, und dennoch mögen die Steine, deren Niederfall man gerade beobachtet und die durch eine stattgehabte Explosion vielleicht nach allen Richtungen hinausgeschleudert worden sind, von Westen her in den Boden einschlagen. Bei dem Steinfall von Eggenfeld in Bayern (1803) wird ein solches Verhältniss ausdrücklich erwähnt: die Explosion habe man von Osten her gehört; die Steine aber seien von Westen gekommen.
 
+Betrachten wir daher nun, ganz abgesehen hiervon, ausschliesslich diejenigen Meteorsteinfälle, bei denen sich genau die Himmelsgegend angegeben findet, aus welcher das die Steine erzeugende Phänomen, d. i. die Wolke oder die Feuerkugel, dahergezogen ist: so erhalten wir für unseren Weltteil für die letzten 160 Jahre das nachstehende Verhältniss:
+
+1\. Von Norden her kamen 4, nämlich 1706 Larissa,* 1722 Schefftlar,* 1810 Charsonville,* 1833 Blansko*;
+
+2\. von Nordwesten her kamen 3, nämlich 1751 Hraschina,* 1814 Agen,* 1824 Zebrak*;
+
+3\. von Südwesten her kamen 3, nämlich 1841 Grüneberg (in Sagan als Feuerkugel gesehen),* 1841 Château-Renard,* 1852 Mezo-Madaras.*
+
+Zusammen 10 Steinfälle.
+
+*) Chladni, über Feuer-Meteore; Wien 1819. Fol 240.
+
+*) G. 53. 1816. 377.
+
+*) G. 40. 1812. 84.
+
+*) P. 4. 1854. 30.
+
+*) WA. 35. 1859. 17 u. 18.
+
+*) G. 48. 1814. 399.
+
+*) P. 6. 1826. 28.
+
+*) P. 4. 1854. 361.
+
+*) P. 53. 1841. 411.
+
+*) P. 91. 1854. 627.
+
+Dagegen kamen
+
+4\. von Südosten her 9, nämlich 1704 Barcelona,* 1790 Barbotan,* 1798 Sales,* 1803 l'Aigle,* 1812 Erxleben,* 1813 Cutro,* 1820 Lixna,* 1822 Angers,* 1824 Renazzo*;
+
+5\. von Osten her 4, nämlich 1794 Siena,* 1812 Toulouse,* 1813 Adair,* 1840 Ceresetto*;
+
+6\. von Nordosten her 8, nämlich 1780 Beeston,* 1782 Turin,* 1803 Apt (in Genf als Feuerkugel gesehen),* 1808 Stannern,* 1815 Chassigny,* 1847 Braunau,* 1851 Gütersloh,* 1858 Clarac und Aussun.*
+
+Zusammen 21 Steinfälle.
+
+*) P. 8. 1826. 46.
+
+*) G. 57. 1817. 134. - G. 15. 1803. 422 u. 429.
+
+*) G. 18. 1804. 275.
+
+*) G. 15. 1803. 74.
+
+*) G. 40. 1812. 456.
+
+*) Chladni, 377.
+
+*) P. 85. 1852. 574.
+
+*) G. 71. 1822. 351.
+
+*) P. 5. 1825. 122.
+
+*) G. 18. 1804. 285.
+
+*) G. 57. 1817. 134.
+
+*) G. 41. 1812. 447.
+
+*) G. 60. 1818. 233. - P. 4. 1854. 360.
+
+*) K. 3. 276.
+
+*) Chladni, 256.
+
+*) G. 16. 1804. 73.
+
+*) G. 29. 1808. 246.
+
+*) G. 57. 1817. 134. - G. 58. 1817. 171.
+
+*) P. 72. 1847. 170.
+
+*) P. 83. 1851. 465.
+
+*) Harris, the chemical constitution and chronologicâl arrangement of Meteorites; Gött. 1859. Fol. 45.
+
 ...
