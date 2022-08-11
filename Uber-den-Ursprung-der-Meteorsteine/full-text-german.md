@@ -428,7 +428,7 @@ Europäische Meteorsteinfälle seit dem Jahre 1700, nach den 12 Monaten geordnet
  1803  | 8\.   | October   | Saurette                  | Frankreich  |           |            |          |           |         |          |          |           |            | 8         |           |           
  1803  | 13\.  | December  | St\. Nicolas              | Deutschland |           |            |          |           |         |          |          |           |            |           |           | 13        
  1804  | 5\.   | April     | High\-Possil              | Schottland  |           |            |          | 5         |         |          |          |           |            |           |           |           
- &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | 2         | 2          | 2        | 4         | 2       | 4        | 7        | \-        | 4          | 4         | 2         | 3         
+ Uebertrag | von 36 | Meteorsteinfällen | auf Seite | 356: | 2         | 2          | 2        | 4         | 2       | 4        | 7        | \-        | 4          | 4         | 2         | 3         
 
 
 
