@@ -390,7 +390,7 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
 
 Europäische Meteorsteinfälle seit dem Jahre 1700, nach den 12 Monaten geordnet.
 
-  | | | | | **Jan\.** | **Febr\.** | **März** | **April** | **Mai** | **Juni** | **Juli** | **Aug\.** | **Sept\.** | **Oct\.** | **Nov\.** | **Dec\.** 
+ &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | **Jan\.** | **Febr\.** | **März** | **April** | **Mai** | **Juni** | **Juli** | **Aug\.** | **Sept\.** | **Oct\.** | **Nov\.** | **Dec\.** 
 -------|-------|-----------|---------------------------|-------------|-----------|------------|----------|-----------|---------|----------|----------|-----------|------------|-----------|-----------|-----------
  1704  | 24\.  | December  | Barcelona                 | Spanien     |           |            |          |           |         |          |          |           |            |           |           | 24        
  1706  | 7\.   | Juni      | Larissa                   | Türkei      |           |            |          |           |         | 7        |          |           |            |           |           |           
