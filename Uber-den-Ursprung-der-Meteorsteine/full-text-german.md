@@ -388,4 +388,48 @@ Uebrigens soll durch alles dieses durchaus noch nicht gesagt sein, als sei die h
 
 Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene zu betrachten ist, versteht sich wohl von selbst und liegt in der Natur der Sache. Namentlich bedarf die Aufstellung der Karten und Verzeichnisse nicht nur einer fortwährenden Ergänzung und Vervollständigung, sondern auch einer steten Berichtigung, wenn dieselben wirklich einen dauernden Werth besitzen sollen. Es werden daher dem Verfasser Mitteilungen zu diesem Zwecke stets willkommen sein, so wie er auch allen Denen seinen aufrichtigen Dank sagt, welche ihm bisher in seiner Arbeit durch ihre freundlichen Mitteilungen, Berichtigungen und Andeutungen sowie durch sonstige Unterstützung behülflich und förderlich gewesen sind.
 
+Europäische Meteorsteinfälle seit dem Jahre 1700, nach den 12 Monaten geordnet.
+
+ **1** | **2** | **3**     | **4**                     | **5**       | **Jan\.** | **Febr\.** | **März** | **April** | **Mai** | **Juni** | **Juli** | **Aug\.** | **Sept\.** | **Oct\.** | **Nov\.** | **Dec\.** 
+-------|-------|-----------|---------------------------|-------------|-----------|------------|----------|-----------|---------|----------|----------|-----------|------------|-----------|-----------|-----------
+ 1704  | 24\.  | December  | Barcelona                 | Spanien     |           |            |          |           |         |          |          |           |            |           |           | 24        
+ 1706  | 7\.   | Juni      | Larissa                   | Türkei      |           |            |          |           |         | 7        |          |           |            |           |           |           
+ 1715  | 11\.  | April     | Schellin                  | Deutschland |           |            |          | 11        |         |          |          |           |            |           |           |           
+ 1722  | 5\.   | Juni      | Schefftlar                | Deutschland |           |            |          |           |         | 5        |          |           |            |           |           |           
+ 1723  | 22\.  | Juni      | Pleskowitz und Liboschitz | Böhmen      |           |            |          |           |         | 22       |          |           |            |           |           |           
+ 1725  | 3\.   | Juli      | Mixbury                   | England     |           |            |          |           |         |          | 3        |           |            |           |           |           
+ 1731  | 12\.  | März      | Halstead                  | England     |           |            | 12       |           |         |          |          |           |            |           |           |           
+ 1740  | 25\.  | October   | Hazargrad                 | Türkei      |           |            |          |           |         |          |          |           |            | 25        |           |           
+ 1750  | 1\.   | October   | Nicorps                   | Frankreich  |           |            |          |           |         |          |          |           |            | 1         |           |           
+ 1751  | 26\.  | Mai       | Hraschina\. Eisen\.       | Croatien    |           |            |          |           | 26      |          |          |           |            |           |           |           
+ 1753  | 3\.   | Juli      | Plan und Strkow           | Böhmen      |           |            |          |           |         |          | 3        |           |            |           |           |           
+ 1753  | 7\.   | September | Luponnas                  | Frankreich  |           |            |          |           |         |          |          |           | 7          |           |           |           
+ 1755  | \-    | Juli      | Terranova                 | Italien     |           |            |          |           |         |          | x\.      |           |            |           |           |           
+ 1766  | M\.   | Juli      | Alboretto                 | Italien     |           |            |          |           |         |          | M\.      |           |            |           |           |           
+ 1768  | 13\.  | September | Luce                      | Frankreich  |           |            |          |           |         |          |          |           | 13         |           |           |           
+ 1768  | 20\.  | November  | Maurkirchen               | Deutschland |           |            |          |           |         |          |          |           |            |           | 23        |           
+ 1773  | 17\.  | November  | Sena                      | Spanien     |           |            |          |           |         |          |          |           |            |           | 17        |           
+ 1775  | 19\.  | September | Rodach                    | Deutschland |           |            |          |           |         |          |          |           | 19         |           |           |           
+ 1776  | \-    | Januar    | Sanatoglia                | Italien     | x\.       |            |          |           |         |          |          |           |            |           |           |           
+ 1780  | 11\.  | April     | Beeston                   | England     |           |            |          | 11        |         |          |          |           |            |           |           |           
+ 1782  | \-    | Juli      | Turin                     | Italien     |           |            |          |           |         |          | x\.      |           |            |           |           |           
+ 1785  | 19\.  | Februar   | Wittens                   | Deutschland |           | 19         |          |           |         |          |          |           |            |           |           |           
+ 1787  | 13\.  | October   | Schigailow und Lebedin    | Russland    |           |            |          |           |         |          |          |           |            | 13        |           |           
+ 1790  | 24\.  | Juli      | Barbotan                  | Frankreich  |           |            |          |           |         |          | 24       |           |            |           |           |           
+ 1791  | 17\.  | Mai       | Castel\-Berardenga        | Italien     |           |            |          |           | 17      |          |          |           |            |           |           |           
+ 1794  | 16\.  | Juni      | Siena                     | Italien     |           |            |          |           |         | 16       |          |           |            |           |           |           
+ 1795  | 13\.  | December  | Wold\-Cottage             | England     |           |            |          |           |         |          |          |           |            |           |           | 13        
+ 1796  | 4\.   | Januar    | Belaja\-Zerkwa            | Russland    | 4         |            |          |           |         |          |          |           |            |           |           |           
+ 1796  | 19\.  | Februar   | Tasquinha                 | Portugal    |           | 19         |          |           |         |          |          |           |            |           |           |           
+ 1798  | 12\.  | März      | Sales                     | Frankreich  |           |            | 12       |           |         |          |          |           |            |           |           |           
+ 1802  | M\.   | September | Loch\-Tay                 | Schottland  |           |            |          |           |         |          |          |           | M\.        |           |           |           
+ 1803  | 26\.  | April     | l’Aigle                   | Frankreich  |           |            |          | 26        |         |          |          |           |            |           |           |           
+ 1803  | 4\.   | Juli      | East\-Norton              | England     |           |            |          |           |         |          | 4        |           |            |           |           |           
+ 1803  | 8\.   | October   | Saurette                  | Frankreich  |           |            |          |           |         |          |          |           |            | 8         |           |           
+ 1803  | 13\.  | December  | St\. Nicolas              | Deutschland |           |            |          |           |         |          |          |           |            |           |           | 13        
+ 1804  | 5\.   | April     | High\-Possil              | Schottland  |           |            |          | 5         |         |          |          |           |            |           |           |           
+       |       |           |                           |             | 2         | 2          | 2        | 4         | 2       | 4        | 7        | \-        | 4          | 4         | 2         | 3         
+
+
+
 ...
