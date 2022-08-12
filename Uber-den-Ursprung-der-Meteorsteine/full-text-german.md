@@ -553,17 +553,17 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
 
 ## Namen-Verzeichniss zu den auf den Karten 1. 2. u. 3. verzeichneten und für zuverlässig zu erachtenden Meteorstein- und Meteoreisen-Fällen.
 
-1. Ortsnummer auf der betreffenden Karte.
+1\. Ortsnummer auf der betreffenden Karte.
 
-2. Fallzeit.
+2\. Fallzeit.
 
-3. Fundort und specifische Schwere der Gesteine.
+3\. Fundort und specifische Schwere der Gesteine.
 
-4. Geographische Breite.
+4\. Geographische Breite.
 
-5. Geographische Lange nach Greenwich.
+5\. Geographische Lange nach Greenwich.
 
-6. Belege.
+6\. Belege.
 
 ^^^ Orte, deren genaue Lage bis jetzt noch nicht ermittelt werden konnte.
 
