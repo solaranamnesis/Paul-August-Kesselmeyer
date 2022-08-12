@@ -523,4 +523,31 @@ Europäische Meteorsteinfälle seit dem Jahre 1700, nach den 12 Monaten geordnet
  1858 | 19\. | Mai | Kakova | Ungarn |  |  |  |  | 19 |  |  |  |  |  |  |  
  1858 | 9\. | December | Clarae und Aussun | Frankreich |  |  |  |  |  |  |  |  |  |  |  | 9 
 
+
+ &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | **Jan\.** | **Febr\.** | **März** | **April** | **Mai** | **Juni** | **Juli** | **Aug\.** | **Sept\.** | **Oct\.** | **Nov\.** | **Dec\.** 
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+ 1795 | 13\. | April | Ceylon | Indien |  |  |  | 13 |  |  |  |  |  |  |  |  
+ 1798 | 13\. | December | Krak\-Hut | Indien |  |  |  |  |  |  |  |  |  |  |  | 13 
+ 1805 | 25\. | März | Doroninsk | Russland |  |  | 25 |  |  |  |  |  |  |  |  |  
+ 1810 | M\. | Juli | Shabad | Indien |  |  |  |  |  |  | M\. |  |  |  |  |  
+ 1811 | 23\. | November | Panganoor\. Eisen\. | Indien |  |  |  |  |  |  |  |  |  |  | 23 |  
+ 1814 | 5\. | November | Doab | Indien |  |  |  |  |  |  |  |  |  |  | 5 |  
+ 1815 | 18\. | Februar | Dooralla | Indien |  | 18 |  |  |  |  |  |  |  |  |  |  
+ 1822 | 7\. | August | Kadonah | Indien |  |  |  |  |  |  |  | 7 |  |  |  |  
+ 1822 | 30\. | November | Rourpoor | Indien |  |  |  |  |  |  |  |  |  |  | 30 |  
+ 1824 | 18\. | Februar | Tounkin | Sibirien |  | 18 |  |  |  |  |  |  |  |  |  |  
+ 1825 | 16\. | Januar | Oriang | Indien | 16 |  |  |  |  |  |  |  |  |  |  |  
+ 1827 | 27\. | Februar | Mhow | Indien |  | 27 |  |  |  |  |  |  |  |  |  |  
+ 1833 | E\. | November | Kandahar | Afghanistan |  |  |  |  |  |  |  |  |  |  | E\. |  
+ 1834 | 12\. | Juni | Charwallas | Indien |  |  |  |  |  | 12 |  |  |  |  |  |  
+ 1838 | 18\. | April | Akburpoor | Indien |  |  |  | 18 |  |  |  |  |  |  |  |  
+ 1838 | 6\. | Juni | Chandakapoor | Indien |  |  |  |  |  | 6 |  |  |  |  |  |  
+ 1840 | 9\. | Mai | Kirgisen\-Steppe | Russland |  |  |  |  | 9 |  |  |  |  |  |  |  
+ 1842 | 30\. | November | Jeetala | Indien |  |  |  |  |  |  |  |  |  |  | 30 |  
+ 1843 | 26\. | Juli | Manjegaon | Indien |  |  |  |  |  |  | 26 |  |  |  |  |  
+ 1848 | 15\. | Februar | Negloor | Indien |  | 15 |  |  |  |  |  |  |  |  |  |  
+ 1850 | 30\. | November | Shalka | Indien |  |  |  |  |  |  |  |  |  |  | 30 |  
+ 1853 | 6\. | März | Segowlee | Indien |  |  | 6 |  |  |  |  |  |  |  |  |  
+ 1857 | 28\. | Februar | Parnallee | Indien |  | 28 
+
 ...
