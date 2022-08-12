@@ -388,7 +388,7 @@ Uebrigens soll durch alles dieses durchaus noch nicht gesagt sein, als sei die h
 
 Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene zu betrachten ist, versteht sich wohl von selbst und liegt in der Natur der Sache. Namentlich bedarf die Aufstellung der Karten und Verzeichnisse nicht nur einer fortwährenden Ergänzung und Vervollständigung, sondern auch einer steten Berichtigung, wenn dieselben wirklich einen dauernden Werth besitzen sollen. Es werden daher dem Verfasser Mitteilungen zu diesem Zwecke stets willkommen sein, so wie er auch allen Denen seinen aufrichtigen Dank sagt, welche ihm bisher in seiner Arbeit durch ihre freundlichen Mitteilungen, Berichtigungen und Andeutungen sowie durch sonstige Unterstützung behülflich und förderlich gewesen sind.
 
-Europäische Meteorsteinfälle seit dem Jahre 1700, nach den 12 Monaten geordnet.
+## Europäische Meteorsteinfälle seit dem Jahre 1700, nach den 12 Monaten geordnet.
 
  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | **Jan\.** | **Febr\.** | **März** | **April** | **Mai** | **Juni** | **Juli** | **Aug\.** | **Sept\.** | **Oct\.** | **Nov\.** | **Dec\.** 
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -523,6 +523,7 @@ Europäische Meteorsteinfälle seit dem Jahre 1700, nach den 12 Monaten geordnet
  1858 | 19\. | Mai | Kakova | Ungarn |  |  |  |  | 19 |  |  |  |  |  |  |  
  1858 | 9\. | December | Clarae und Aussun | Frankreich |  |  |  |  |  |  |  |  |  |  |  | 9 
 
+## Asiatische Meteorsteinfälle seit dem Jahre 1700, nach den zwölf Monaten geordnet.
 
  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | **Jan\.** | **Febr\.** | **März** | **April** | **Mai** | **Juni** | **Juli** | **Aug\.** | **Sept\.** | **Oct\.** | **Nov\.** | **Dec\.** 
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
