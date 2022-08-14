@@ -658,8 +658,8 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
  1\.     | Vor 1520               | \-      | \-      | Brüssel\.                                                                      | Belgien | 50° 51′ N\. | 4° 22′ O\. | G\. 50\. 1815\. 239\.                                 
  2\.     | 1650                   | 6\.     | August  | Dordrecht\.                                                                    | Holland | 51° 48′ N\. | 4° 40′ O\. | G\. 50\. 1815\. 243\.                                 
  3\.     | Zwischen 1804 und 1807 |         | \-      | Dordrecht\.                                                                    | Holland | 51° 48′ N\. | 4° 40′ O\. | G\. 53\. 1816\. 379\.                                 
- 4\.     | 1840                   | 12\.    | Juni    | Uden, O\. von Herzogenbusch; Nordbrabant\.                                     |         | 51° 40′ N\. | 5° 35′ O\. | P\. 59\. 1843\. 350\.                                 
- 5\.     | 1843                   | 2\.     | Juni    | Blaauw\-Kapel, NNO\. von Utrecht\. \- _Sp\.\-Gew\._: 3,57 bis 3,65\.         |         | 52° 8′ N\.  | 5° 8′ O\.  | P\. 59\. 1843\. 348\. und 427\. W\. 1860\. S\. 1860\. 
- 6\.     | 1855                   | 7\.     | Juni    | St\. Denis\-Westrem, 1\. M\. WSW\. von Gent\. \- _Sp\.\-Gew\._: 3,29\-3,40\. |         | 51° 4′ N\.  | 3° 40′ O\. | P\. 99\. 1856\. 63\.                                  
+ 4\.     | 1840                   | 12\.    | Juni    | Uden, O\. von Herzogenbusch; Nordbrabant\.                                     | Holland | 51° 40′ N\. | 5° 35′ O\. | P\. 59\. 1843\. 350\.                                 
+ 5\.     | 1843                   | 2\.     | Juni    | Blaauw\-Kapel, NNO\. von Utrecht\. \- _Sp\.\-Gew\._: 3,57 bis 3,65\.         | Holland | 52° 8′ N\.  | 5° 8′ O\.  | P\. 59\. 1843\. 348\. und 427\. W\. 1860\. S\. 1860\. 
+ 6\.     | 1855                   | 7\.     | Juni    | St\. Denis\-Westrem, 1\. M\. WSW\. von Gent\. \- _Sp\.\-Gew\._: 3,29\-3,40\. | Belgien | 51° 4′ N\.  | 3° 40′ O\. | P\. 99\. 1856\. 63\.                                  
 
 ...
