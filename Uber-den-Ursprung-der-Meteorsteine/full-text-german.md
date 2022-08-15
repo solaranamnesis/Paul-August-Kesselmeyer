@@ -739,4 +739,10 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
  Illyrien          | &nbsp;                 | &nbsp;  | &nbsp;    | &nbsp;                                                                                                                                                                           | &nbsp;                     | &nbsp;                           | &nbsp;                           | &nbsp;                                                          
  55\.              | 1112                   | \-      | \-        | Aquileja \(Aglar\)\.                                                                                                                                                             | Illyrien                   | 45° 46′ N\.                        | 13° 24′ O\.                        | G\. 50\. 1815\. 232\.                                           
 
+#### 8. Schweiz
+
+ **1\.** | **2\.** | **2\.**             | **2\.** | **3\.**                                                                                              | **3\.**     | **4\.** | **5\.** | **6\.**               
+---------|---------|---------------------|---------|------------------------------------------------------------------------------------------------------|-------------|---------|---------|-----------------------
+ 1\.     | 1698    | 18\. \(nicht 19\.\) | Mai     | Hinterschwendi \(^^^\) bei Waltringen \(47° 5′ N\., 7° 45′ O\.\), NO\. von Bern und ONO\. von Burgdorf\. | Canton Bern | \-      | \-      | G\. 50\. 1815\. 246\. 
+
 ...
