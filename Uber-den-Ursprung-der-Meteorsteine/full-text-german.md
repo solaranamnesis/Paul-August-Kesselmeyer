@@ -871,4 +871,10 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
  &nbsp;  | &nbsp;                                   | &nbsp;  | &nbsp;   | Meteor\-Eisenmasse, deren Fallzeit unbekannt\.                                                       | &nbsp;       | &nbsp;                          | &nbsp;                           | &nbsp;                                      
  13\.    | \-                                       | \-      | \-       | ?                                                                                                    | Macedonien   | \-                              | \-                               | P\. 18\. 1830\. 190\.                       
 
+### Karte 2. - Oeftliche Halbkugel.
+
+#### A. Europa. Siehe Karte 1.
+
+#### B. Afrika.
+
 ...
