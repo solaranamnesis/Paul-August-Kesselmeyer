@@ -968,5 +968,12 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
  8\.     | \-      | \-      | \-      | ? _Sp\.\-Gew\._: 7,55\.                                                                                                                                                                                           | Kamtschatka          | \-                               | \-                                 | P\. 107\. 1859\. 162\.                               
  9\.     | \-      | \-      | \-      | 30 Werste von Sarepta, an der Wolga; Gouv\. Saratow\.                                                                                                                                                               | Königreich Astrachan | 48° 28′ N\.                        | 44° 29′ O\.                          | RPG\.                                                
 
+##### 4. Tibet
+
+ **1\.** | **2\.** | **2\.** | **2\.** | **3\.**                                                                                                               | **3\.** | **4\.** | **5\.** | **6\.**               
+---------|---------|---------|---------|-----------------------------------------------------------------------------------------------------------------------|---------|---------|---------|-----------------------
+ &nbsp;  | &nbsp;  | &nbsp;  | &nbsp;  | Meteor\-Eisenmasse, deren Fallzeit unbekannt\.                                                                        | &nbsp;  | &nbsp;  | &nbsp;  | &nbsp;                
+ 1\.     | \-      | \-      | \-      | Die eiserne Keule, im Lama\-Kloster Sera \(^^^\) bei Lhassa \(H’Lassa oder Lassa, 29° 30′ N\., 91° 50′ O\.\) aufbewahrt\. | Tibet   | \-      | \-      | P\. 24\. 1832\. 233\. 
+
 
 ...
