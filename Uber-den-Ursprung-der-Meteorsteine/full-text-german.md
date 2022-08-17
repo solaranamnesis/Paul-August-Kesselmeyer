@@ -896,4 +896,7 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
  14\.    | \-      | \-      | \-                         | Am Grossen Fischfluss, District von Graaf\-Reynet \(32° 10′ S\., 24° 50′ O\.\); Capland\. Grosse Menge von Eisen, darunter eine Masse von 3 Ctr\. Gefunden 1838\. \-                                                                                    | Süd\-Afrika      | Zwischen 32° 0′ S\. und 32° 30′ S\.  | Zwischen 25° 0′ O\. und 26° 50′ O\.  | G\. 50\. 1815\. 264\.                            
  15\.    | \-      | \-      | \-                         | St\. Augustines Bay\. Gefunden 1843\.                                                                                                                                                                                                               | Insel Madagascar | 23° 30′ S\.                        | 44° 20′ O\.                        | SJ\. 2\. 15\. 1853\. 22\. S\. 1860\.             
 
+
+#### C. Asien.
+
 ...
