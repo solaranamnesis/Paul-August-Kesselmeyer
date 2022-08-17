@@ -1008,5 +1008,8 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
  25\.    | 1575 \(nicht 1565\)  | 3\.     | Juli              | King\-tcheou \(King\-tcheou\-fou\), ehemals Prov\. Hou\-kouang, jetzt Provinz Hou\-pe\.                                                                   | Provinz Hou\-pe \(Hoo\-pe\)          | 30° 27′ N\.               | 112° 5′ O\.                 | MS\. 336\. EB\. 81 u\. 50\. A\. 4\. 190\.                                           
  26\.    | 1618                 | 12\.    | November          | Nan\-king \(Cour du midi oder Kiang\-ning\-fou\), ehemals Provinz Kiang\-nan, jetzt Provinz Kiang\-sou\.                                                  | Provinz Kiang\-sou \(Kiang\-soo\)    | 32° 5′ N\.                | 118° 47′ O\.                | MS\. 339\. EB\. 133, 72 u\. 73\. A\. 4\. 191\.                                      
 
+### Karte 3. - Westliche Halbkugel.
+
+#### 1. Stilles Meer.
 
 ...
