@@ -975,5 +975,6 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
  &nbsp;  | &nbsp;  | &nbsp;  | &nbsp;  | Meteor\-Eisenmasse, deren Fallzeit unbekannt\.                                                                        | &nbsp;  | &nbsp;  | &nbsp;  | &nbsp;                
  1\.     | \-      | \-      | \-      | Die eiserne Keule, im Lama\-Kloster Sera \(^^^\) bei Lhassa \(H’Lassa oder Lassa, 29° 30′ N\., 91° 50′ O\.\) aufbewahrt\. | Tibet   | \-      | \-      | P\. 24\. 1832\. 233\. 
 
+##### 5. China und Korea.
 
 ...
