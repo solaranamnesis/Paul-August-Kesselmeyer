@@ -1012,4 +1012,31 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
 
 #### 1. Stilles Meer.
 
+ **1\.** | **2\.** | **2\.** | **2\.**   | **3\.**                                                                                  | **3\.**           | **4\.**   | **5\.**   | **6\.**                                     
+---------|---------|---------|-----------|------------------------------------------------------------------------------------------|-------------------|-----------|-----------|---------------------------------------------
+ 1\.     | 1825    | 14\.    | September | Hanaruru \(Honolulu\), auf der Insel Oahu \(Wahu oder Waohoo\)\. _Sp\.\-Gew\._: 3,39\. | Sandwichs\-Inseln | 21° 30′ N\. | 158° 0′ W\. | P\. 18\. 1830\. 184\. W\. 1860\. S\. 1860\. 
+
+#### 2. Grönland und Nordisches Eismeer
+
+ **1\.** | **2\.** | **2\.** | **2\.**  | **3\.**                                                                                             | **3\.**  | **4\.**   | **5\.**                                      | **6\.**                           
+---------|---------|---------|----------|-----------------------------------------------------------------------------------------------------|----------|-----------|----------------------------------------------|-----------------------------------
+ 1\.     | 1850    | 3\.     | December | Prince\-of\-Wales\-Strait\.                                                                         | Eismeer  | 73° 31′ N\. | 114° 30′ W\. \(nach M\.'s Karte etwa 117° W\.\) | Miertsching\. Fol\. 64 u\. 67\.\* 
+ &nbsp;  | &nbsp;  | &nbsp;  | &nbsp;   | Meteor\-Eisenmassen, deren Fallzeit unbekannt\.                                                     | &nbsp;   | &nbsp;    | &nbsp;                                       | &nbsp;                            
+ 2\.     | \-      | \-      | \-       | Niakornak, zwischen Rittenbeck und Jacobshavn\. 21 Tb\. Gefunden 1819\. \- _Sp\.\-Gew\._: 7,073\. | Grönland | 69° 25′ N\. | 50° 30′ W\.                                    | P\. 93\. 1854\. 155\.             
+ 3\.     | \-      | \-      | \-       | Sowallick, eine Gegend der nördlichen Küste der Baffinsbai\. \- _Sp\.\-Gew\._: 7,23\-7,72\.       | Grönland | 76° 22′ N\. | 58° 0′ W\.                                     | G\. 63\. 1819\. 29\. W\. 1860\.   
+ 4\.     | \-      | \-      | \-       | Eine 3te Masse in Süd\-Grönland\.                                                                   | Grönland | \-        | \-                                           | P\. 93\. 1854\. 155\.             
+
+#### 3. Canada
+
+ **1\.** | **2\.** | **2\.** | **2\.** | **3\.**                                                                                                                              | **3\.**      | **4\.** | **5\.** | **6\.**                                          
+---------|---------|---------|---------|--------------------------------------------------------------------------------------------------------------------------------------|--------------|---------|---------|--------------------------------------------------
+ &nbsp;  | &nbsp;  | &nbsp;  | &nbsp;  | Meteor\-Eisenmasse, deren Fallzeit unbekannt\.                                                                                       | &nbsp;       | &nbsp;  | &nbsp;  | &nbsp;                                           
+ 1\.     | \-      | \-      | \-      | Madoc \(^^^\), am St\. Lorenzo\-Strom, zwischen Montreal und dem Joronto\-See\. 370 Tb\. Gefunden\. 1854\. \- _Sp\.\-Gew\._: 7,88? | Ober\-Canada | \-      | \-      | SJ\. 2\. 19\. 1855\. 417\. W\. 1860\. S\. 1860\. 
+
+#### 4. Vereinigte Staaten von Nord-Amerika.
+
+#### 5. Staaten von Mexico und Mittel-Amerika.
+
+#### 6. Süd-Amerika.
+
 ...
