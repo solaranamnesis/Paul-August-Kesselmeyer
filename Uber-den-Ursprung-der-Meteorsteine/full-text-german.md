@@ -1149,4 +1149,20 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
  8\.     | \-      | \-            | \-       | Nahe am Fluss Vermejo, Prov\. Grand\-Chaco\-Gualamba, 15 M\. von Otumpa \(^^^\) in Tucuman\. 300 Ctr\. Gefunden 1788\. \- _Sp\.\-Gew\._: 7,54\-7,65\.                                                                                                                                                 | San Jago del Estero \(Rio de la Plata Staaten\) | Ungefähr 25° 0′ S\. bis 26° 0′ S\. \(27\-28°?\) | Ungefähr 60° 0′ W\. bis 62° 0′ W\. | G\. 50\. 1815\. 266\. W\. 1860\. S\. 1860\.                                                      
  9\.     | \-      | \-            | \-       | Am Bache Bemdegó \(Bendegó\), der in den Rio San\-Francisco fällt, 10 Leguas N\. von Monte\-Santo und 50 Leguas von Bahia; Capitanie Bahia\. \- 140 bis 170 Ctr\. Gefunden 1784\. Auch Eisen von Sergipe oder Wollaston\-Eisen genannt\. \- _Sp\.\-Gew\._: 7,48\-7,88\.                               | Brasilien                                       | 10° 20′ S\.                                  | 40° 10′ W\.                      | G\. 68\. 1821\. 343\. SJ\. 2\. 15\. 1853\. 12\. W\. 1860\. S\. 1860\.                            
 
+## Zeitfolge sämmtlicher, sowohl zuverlässiger als zweifelhafter Meteorstein- und Meteoreisen-Fälle.
+
+1\. Ordnungsnummer der Zeitfolge.
+
+2\. Ortsnummer auf den betreffenden Karten 1., 2. u. 3.
+
+3\. Fallzeit.
+
+4\. Fundort.
+
+5\. Geographische Lage; die Längengrade nach Greenwich.
+
+6\. Belege.
+
+7\. Grössere oder geringere Beglaubigung der einzelnen Fälle.
+
 ...
