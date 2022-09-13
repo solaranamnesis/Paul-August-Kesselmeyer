@@ -5,5 +5,5 @@ Public Domain works by Paul August Kesselmeyer (1813 - 1897)
 
 English - Plain Text  
 English - PDF  
-[German - Plain Text](Uber-den-Ursprung-der-Meteorsteine/full-text-german.md)  
+[German - Plain Text](Uber-den-Ursprung-der-Meteorsteine/full-text-german-1.md)  
 German - PDF  
