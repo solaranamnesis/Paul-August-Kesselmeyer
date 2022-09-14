@@ -1173,4 +1173,5 @@ Eben so bleibt es zweifelhaft, ob die von Lycosthenes zu verschiedenen Malen erw
 
 Was endlich die sowohl in dem vorgehenden als in dem gegenwärtigen Verzeichnisse angegebenen Länge- und Breitegrade betrifft, so können dieselben in vielen Fällen - namentlich, wo es sich um ganz kleine und wenig bekannte Orte handelt - nur eine annähernde Gültigkeit besitzen; einmal wegen der Schwierigkeit, solche kleine Orte wirklich auf Karten verzeichnet zu finden; zum Andern aber auch aus dem Grunde, weil - namentlich bei ausser-europäischen Ländern - die geographischen Lagen selbst der grösseren Städte auf den verschiedenen zu dieser Arbeit benutzten Karten nicht immer vollkommen übereinstimmten. Im Allgemeinen sind jedoch die Lagen nach den Karten des grossen Stieler'schen Atlasses zu Grunde gelegt.
 
-...
+[...](https://github.com/solaranamnesis/Paul-August-Kesselmeyer/blob/main/Uber-den-Ursprung-der-Meteorsteine/full-text-german-2.md)
+
