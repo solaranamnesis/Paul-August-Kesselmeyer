@@ -164,6 +164,31 @@
  Canaan in Connecticut                                                                                                                       | Nord\-Amerika                   | P\. 24\. 1832\. 232\. B\. 112\. WA\. 25\. 1825\. 542\. \- Kunst\-Erzeugniss\.                                                                                                                                                                                                                                                                                                                                 
  Sergipe                                                                                                                                     | Brasilien \(nicht Ost\-Indien\) | P\. 4\. 1854\. 396\. WA\. 41\. 1860\. 252\. \- Verwechselung mit dem Bemdego\- oder Bahia\-Eisen\.                                                                                                                                                                                                                                                                                                            
 
-...
+### Schluss-Zusammenstellung.
 
+#### Von bekannter Fallzeit.
+
+287 mehr oder minder zuverlassige Steinfalle. (Seite 350 bis 394 ...)
+
+17 mehr oder minder zuverlassige Eisenfalle. (und 396 bis 440.)
+
+337 mehr oder minder zweifelhafte Steinfalle. (Seite 396 bis 441.)
+
+6 mehr oder minder zweifelhafte Eisenfalle. (Seite 396 bis 441.)
+
+zusammen: 647.
+
+#### Von unbekannter Fallzeit.
+
+17 mehr oder minder zuverlassige Steinfalle. (Seite 350 bis 394.)
+
+97 mehr oder minder zuverlassige Eisenfalle. (Seite 350 bis 394.)
+
+24 mehr oder minder zweifelhafte Steinfalle. (Seite 441 bis 443.)
+
+10 mehr oder minder zweifelhafte Eisenfalle. (Seite 443.)
+
+zusammen: 148.
+
+In Allem: 795 Falle.
 
