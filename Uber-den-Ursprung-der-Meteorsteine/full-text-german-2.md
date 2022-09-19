@@ -691,4 +691,116 @@
  680                                                                             | \-      | \-                                                              | Ceralvo \(^^^\), zwischen Camargo und Monterey; im Staate Nuevo\-Leon\.                                                                                                                                                     | Mexico                                | ungefähr 26° 0' N\. 100° 0' W\.                                    | SJ\. 2\. 21\. 1856\. 216\.                                                                                    | Eisen von wahrscheinlich meteorischem Ursprung, welches daselbst 1847, als Ambos dienend, gefunden ward\.                                                                                                                                                                                                                                                                                                   
  681                                                                             | \-      | \-                                                              | An der Küste von Omoa, 10 engl\. M\. vom Meere, im Staate Honduras\.                                                                                                                                                        | Mittel\-Amerika                       | ungefähr 15° 25' N\. 87° 55' W\.                                   | C\. 341\.                                                                                                     | Wahrscheinlich Meteoreisen\.                                                                                                                                                                                                                                                                                                                                                                                
 
+*) Le Chou-king, recueilli par Confucius, traduit et enrichi de notes par Gaubil; Paris 1790.
+
+*) Academie Royale de Bruxelles. Nouveau Catalogue des principales apparitions d'etoiles filantes par A. Quetelet; Bruxelles 1841.
+
+*) E. F. F. Chladni: Ueber Feuer-Meteore und uber die mit denselben herabgefallenen Massen; Wien 1819.
+
+*) Conradus Lycosthenes Rubeaquensis (Conrad Wolffhart von Rufach zu Basel): Prodigiorum ac ostentorum chronicon; Basiliae 1557.
+
+*) Chronicon Magnum Schedelii: Das buch der Croniken vnnd geschichten mit figuren und pildnussen von Anbeginn der welt biss auff dise unsere Zeit; Augspurg durch Hannsen schönsperger 1496.
+
+*) August Pauly: Real-Encyclopadie der classischen Alterthumswissenschaft; Stuttgart 1848.
+
+*) Dr. J. S. C. Schweigger: Journal fur Chemie und Physik; neue Folge. Halle 1825. Band 14 (44).
+
+*) Georg Ernestus Stahl: Joh. Joachimi Beccheri Physica subterranea. Lipsiae 1703.
+
+*) Paulli G. F. P. N. Merulae Cosmographiae generalis libri tres: item geographiae particularis libri quatvor. Ex officinia Plantiniana Raphelengji 1605.
+
+*) C. Suetonii Tranquilli Opera. Textu ad Codd Mss Recognito cum Jo. Aug. Ernestii Animadversionibus nova cura auctis emendatisque et Jsaaci Casauboni Commentario edidit Frid Aug. Wolfius Lipsiae 1802 (Liber 7. Ser. Sulpicius Galba).
+
+*) Relation de l'Egypte par Abd-Allatif, medecin arabe de Bagdad, traduit et enrichi de notes par M. Silvestre de Sacy. Paris 1810.
+
+*) Joseph Simonius Assemanus: Assemani Bibliotheca orientalis Clementino-Vaticana Romae 1721. (Caput 16. Dionysius 1. Patriarcha Jacobitarum, cognomento Telmahreusis).
+
+*) Dieser Steinfall ist in dem geographischen Verzeichniss, Seite 67, noch nicht aufgenommen, und daher nachtraglich daselbst noch einzuschalten.
+
+*) Monumenta Germaniae Historica, edidit Georgius Hienricus Pertz. Hannoverae 1826. Tomus 1. (Einhardi Fuldensis Annales).
+
+*) Dr. Friedrich Schnurrer: Chronik der Seuchen mit den gleichzeitigen Vorgängen in der physischen Welt und in der Geschichte der Menschen. Tübingen 1823.
+
+*) L'Institut, Journal general des sciences et travaux scientifiques, 1re Section, Tome 6, Nr. 252. Paris 1838. (Etoiles filantes signalees dans les auteurs arabes par Mr. Fraehn.)
+
+*) M. Zacharias Rivander: Duringische Chronika 1596.
+
+*) Gregorii Abulpharagii sive Bar-Hebraei Chronicon Syriacum, e codicibus Bodleianis descripsit maximani partem vertit notisque illustravit P. J. Bruns, edidit ex parte vertit notasque adjecit G. G. Kirsch; Lipsiae 1789.
+
+*) Fundgruben des Orients, bearbeitet durch eine Gesellschaft von Liebhabern. Wien 1818. (Jos von Hammer: Weiterer Beitrag zur Geschichte der Luftsteine aus dem Abdschaibol-Machlukat, d. i. den Wundern der Geschopfe des Mohammed Ben Ahmed aus Tuss und des Kaswini).
+
+*) Dieser auf der Karte von Asien noch nicht verzeichnete Steinfall ist nachtraglich auch in dem geographischen Verzeichniss, Seite 67, noch einzuschalten.
+
+*) Albertus Krantz: Saxonia. Verteutscht durch Basilium Fabrum Soranum. Leipzig 1582.
+
+*) M. Cyriacus Spangenberg: Mansfeldische Chronien. Eisleben 1572.
+
+*) Mattheus Dresser: Sächsisch Chronikon. Wittenbergk 1596.
+
+*) Chladni halt diese beiden Steinfalle zu Friedland in Brandenburg und zu Friedeburg an der Saale für ein und dasselbe Ereigniss. Doch ist es auffallend, dass die Chroniken, welche des Steinfalles von Friedeburg an der Saale erwahnen, nur das Jahr 1304, aber nicht auch den Tag angeben, an welchem derselbe stattgefunden; wahrend Krantz fur den Steinfall zu Friedland nicht nur das Jahr 1304 angibt, sondern auch ausdrücklich sagt, das Ereigniss habe am St. Remigiustage (1 Okt.) stattgefunden. Auch davon, dass die Steine - wie es bei Fraedeburg der Fall war - kohlschwarz und hart wie Eisen gewesen seien, geschicht bei dem Fall von Friedland keine Erwähnung. Darum durften beide Berichte sich doch vielleicht auf zwei verschiedene Ereignisse beziehen.
+
+*) Lebens-Beschreibung Herrn Gozens von Berlichingen; zum Druck befordert von Verono Franck von Steigerwald und Wilhelm Friedrich Pistorius. Nurnberg 1731.
+
+*) Johann Leopold Cysat: Beschreibung dess Beruhmhten Lucerner - oder 4 Waldstatten Sees und dessen Furtrefflichen Qualiteten und sonderbaaren Eygenschafften. Lucern 1661.
+
+*) Commentarius brevis rerum in orbe gestarum ab anno salutis 1500 usque in annum 1574 ex optimis quibusque seriptoribus congestus per F. Laurentium Surium, Carthusianum. Coloniae 1602.
+
+*) Simonis Majoli Astensis, Episcopi Vulturariensis, Dierum Canicularium Tomi 7. Colloquiis 46. Offenbaei ad Moenum 1691 (Colloquium primum de Meteoris).
+
+*) M. Andreas Engelius: Rerum Marchicarum Breviarium; Wittemberg 1593.
+
+*) Johan Bangen: Thuringische Chronick oder Geschichtbuch; Mulhausen 1599.
+
+*) Bigot de Morogues: Memoire historique et physique sur les chutes des pierres; Orleans 1812.
+
+*) Museum Wormianum, seu Historia rerum rariorum, tam Naturalium, quam artificialum, tam Domesticarum, quam Exoticarum, quae Hafniae Danorum in Aedibus Authoris servantur, adornate ab Olao Worm, Med. Doct. Lugduni Batavorum.
+
+*) P. D. Ambrogio Soldani: Sopra una pioggetta di sassi accaduta nella sera de' 16 Giugno del 1794 in Lucignan d'Asso nel Sanese; Siena 1794.
+
+*) J. G. Knapp: Neuere Geschichte der evangel. Missionsanstalten zur Bekebrung der Heiden in Ostindien. Halle 1771. 2tes Stuck, 1te Abt.
+
+*) Troisieme voyage de Cook; Paris 1785.
+
+*) M. Belli, geb. Gontard: Leben in Frankfurt a. M.; Frankfurt a. M. 1850.
+
+*) Fr. von Dalberg: Ueber Meteor-Cultus der Alten, vorzuglich in Bezug auf Steine, die vom Himmel gefallen; Heidelberg 1811.
+
+*) Diese genaueren, aus Soldani entnommenen Ortsangaben sind in dem geographischen Verzeichniss Seite 60 nachtraglich zu erganzen.
+
+*) Domenico Tata: Memoria sulla pioggia di pietre avvenuta nella campagna Sanese il di 16 di Giugno di questo corrente anno; Napoli 1794.
+
+*) Domenico Tata: Relazione dell' ultima eruzione del Vesuvio della sera de' 15 Giugno; Napoli 1794.
+
+*) Siehe die ausfuhrlichere Beschreibung Seite 15.
+
+*) Diese genaueren Ortsangaben sind in dem geographischen Verzeichniss Seite 53 noch hinzuzufugen.
+
+*) David Purdie Thomson: Introduction to Meteorology; Edinburgh and London 1849.
+
+*) Dr. R. Wolf, Vierteljahrschrift der naturforschenden Gesellschaft in Zurich; Zurich 1856.
+
+*) Paul Partsch, die Meteoriten oder vom Himmel gefallenen Steine und Eisenmassen im k. k. Hof-Mineralien-Kabinette in Wien; Wien 1843.
+
+*) Dieser angebliche, einem von Henry Hicks, P. M., an den Herausgeber des Philadelphia Courier gerichteten und in den angegebenen Band von Sillimans Journal aufgenommenen Brief entnommene Meteorsteinfall ist zwar in dem Verzeichniss zu Karte 3 Seite 56 unter den mehr oder weniger zuverlassigen Steinfallen aufgefuhrt; allein da von dem Steine, der angeblich ausgegraben worden sein soll, trotz der Aufforderung in Sillimans Journal, nie auch nur ein Bruchstuck wirklich vorgelegt worden ist, so ist das ganze Ereigniss wohl nur als sehr zweifelhaft, wenn nicht die ganze Erzahlung als ein Amerikanischer Humbug zu betrachten.
+
+*) Dr. W. Gleuns, Jr.: Jets over de meteoor-explosie van den 8. Julij 1852 en een' bij die gelegenheid gevonden meteoorsteen; Groningen 1852.
+
+*) Dieser Meteorsteinfall ist in dem geographischen Verzeichniss Seite 55, so wie in dem Monats-Verzeichniss Seite 47 noch nicht aufgenommen und daher nachtraglich daselbst noch einzuschalten.
+
+*) Jobus Fincelius: Wunderzeichen. Warhafftige Beschreibang und grundlich verzeichnus schrecklicher Wunderzeichen und Geschichten, die von dem Jar 1517 an bis auff das Jar 1556 geschehen und ergangen; Vrsel 1557.
+
+*) T. Livii Patavini Historiarum ab urbe condita libri, qui supersunt, omnia: curante Arn. Drakenborch; Stutgardiae 1823.
+
+*) J. von Hammer: Geschichte des Osmannischen Reiches; Pest 1828.
+
+*) J. G. Ersch u. Gruber: Allgemeine Encyklopadie der Wissenschaften und Kunste; Leipzig 1833. Band 34.
+
+*) Silvestre de Sacy: Chrestomathie Arabe on extraits de divers ecrivrains arabes, tant en prose qu-en vers; Paris 1827. tome 3. (Extraits du livre des merveilles de la nature et des singularites des choses creees, par Mohammed Kazwini, fils de Mohammed; traduits par A. L. de Chezy).
+
+*) Carl Ritter: Erdkunde oder allgemeine vergleichende Geographie; Berlin 1836. Bd. 6.
+
+*) The London, Edinburgh and Dublin Philosophical Magazine and Journal of Science. Vol. 10. Fourth Series. July - December 1855.
+
+*) Jahrbuch der k. k. Geologischen Reichsanstalt; Wien 1857.
+
 [...](https://github.com/solaranamnesis/Paul-August-Kesselmeyer/blob/main/Uber-den-Ursprung-der-Meteorsteine/full-text-german-3.md)
