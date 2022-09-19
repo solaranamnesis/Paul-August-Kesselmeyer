@@ -26,7 +26,7 @@ S. bedeutet: Shepard, Catalogue of the Meteoric Collection of Charles Upham Shep
 
 SJ. bedeutet: Sillimans American Journal,
 
-W. bedeutet: Haidinger, die Meteoriten des k. k. Hof-Naturalien-Cabinets am 30. Mai 1860.
+W. bedeutet: Haidinger, die Meteoriten des k. k. Hof-Naturalien-Kabinetts am 30. Mai 1860.
 
 WA. bedeutet: Sitzungsberichte der mathematisch-naturwissenschaftlichen Klasse der k. Akademie in Wien.
 
