@@ -164,6 +164,36 @@
  Canaan in Connecticut                                                                                                                       | Nord\-Amerika                   | P\. 24\. 1832\. 232\. B\. 112\. WA\. 25\. 1825\. 542\. \- Kunst\-Erzeugnis\.                                                                                                                                                                                                                                                                                                                                 
  Sergipe                                                                                                                                     | Brasilien \(nicht Ost\-Indien\) | P\. 4\. 1854\. 396\. WA\. 41\. 1860\. 252\. \- Verwechselung mit dem Bemdego\- oder Bahia\-Eisen\.                                                                                                                                                                                                                                                                                                            
 
+*) Johann Herold: Wunderwerck oder Gottes vnergrundthches vorbilden. Auss Herrn. Condrad Lycosthenes Latinisch zusammen getragner beschreibung inn vier bucher gezogen vnnd Verteutscht. Basel 1557.
+
+*) Diese irrthumlichen Steinfalle finden sich in dem geographischen Verzeichniss Seite 59 und 67 noch aufgefuhrt, und sind daher an beiden Orten nachtraglich zu streichen.
+
+*) M. Michaud: Histoire des Croisades; Bruxelles et Leipsic 1841.
+
+*) M. Michaud: Bibliotheque des Croisades; Paris 1829 (Cinq Livres de l'histoire de son temps, ecrite par Raoul Glaber, moine de Cluni).
+
+*) Von Ende: Ueber Massen und Steine, die vom Monde auf die Erde gefallen sind. Braunschweig 1804.
+
+*) M. Andreas Angelus Struthiomontanus (Andreas Engel von Straussberg): Annales Marchiae Brandenburgicae.
+
+*) Achill. Augusti von Lersuer: Nachgehohlte, vermehrte, und continuirte Chronica der Weitberuhmten freien Reichs- Wahl- und Handels-Stadt Franckfurth am Main; aus des seel. Auetoris hinterlassenem Manuscripto zusammengetragen, und durch eigenen Verlag zum Druck befordert durch Georg. Augustum von Lersner. Frankfurth am Main, 1734. Buch 1. Cap. 37.
+
+*) Reports of British Association of 1850.
+
+*) In Bezug auf alle diese, den Reports of British Association for the Advancement of Science, 1849 (1850), entnommenen angeblichen Meteorsteinfalle in Ungarn und an der Donau heisst es in dem Aufsatz: "A Catalogue of observations of luminous Meteors by the Rev. Baden Powell, M. A., F. R. S. _etc._ Savilian Professor of Geometry, Oxford" wortlich: "For the following list of Meteorites, which have fallen in Hungary, I am indebted to W. W. Smyth Esq. M. A. Geologist to the Geological Survey." Und nun werden die einzelnen Falle, namlich deren Jahrszahl und Ort, ohne alle und jede weitere nahere Angabe - wie oben in den betreffenden Fallen bemerkt - aufgefuhrt. Da jedoch durchaus keine Quelle aus irgend einer Deutschen Zeitschrift mitgetheilt wird, diese Letzteren im Gegentheil - wie es scheint - von den meisten dieser angeblichen Meteorsteinfalle durchaus keine Erwahnung thun, sondern meist nur Feuerkugeln in den betraffenden Jahren und an den betraffenden Orten auffuhren: so darf diese Angabe in den British Association Reports wohl gewiss nur als sehr unzuverlassig betrachtet werden. Waren aus den betreffenden Feuerkugeln wirklich Meteorsteine hervorgegangen: wir wurden wohl sicher eher zuverlassige Nachrichten daruber aus Ungarn selbst oder uber Wien erhalten haben, als in einer dazu noch so wenig zuverlassigen Weise erst auf dem weiten Umweg uber England.
+
+*) Academie Royale de Bruxelles. Catalogue des principales apparitions d'etoiles filantes par A. Quetelet; Bruxelles 1839.
+
+*) Academie Roylae de Bruxelles. Nouveau Catalogue des principales apparitions d'etoiles filantes par A. Quetelet; Bruxelles 1841.
+
+*) Correspondenzblatt des Konigl. Wurtemb. Landwirthschaftlichen Vereins. Neue Folge. Band 1 (der granzen Reihenfolge Band 21). Stuttgart und Tubingen 1832. Darinnen Seite 348: Meteorologische Chronik vom Jahr 1832 von Prof. Plieninger; Nachtrag von 1831.
+
+*) Diese beiden irrthumlichen Meteorsteinfalle sind daher in dem Monats-Verzeichniss Seite 47. und in dem Verzeichniss zu Karte 2, Seite 65, nachtraglich zu streichen.
+
+*) Achter Bericht der Oberhessischen Gesellschaft fur Natur- und Heilkunde; Giessen, Mai 1860.
+
+*) Peterman Etterlyn, gerichtschriber zu Lutzern, Kronica von der loblichen Eydtgnoschaft jr harkommen vnd sust seltzam strittenn vnd geschichten. Basel 1507.
+
 ### Schluss-Zusammenstellung.
 
 #### Von bekannter Fallzeit.
