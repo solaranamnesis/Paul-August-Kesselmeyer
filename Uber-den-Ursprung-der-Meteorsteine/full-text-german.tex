@@ -3,7 +3,8 @@
 % Load encoding definitions (after font package)
 \usepackage[LGR,T1]{fontenc}
 \usepackage{textalpha}
-
+\usepackage{tabularx}
+\usepackage{pdflscape}
 \usepackage{listings}
 \lstset{basicstyle=\ttfamily}
 
@@ -96,7 +97,7 @@ S. bedeutet: Shepard, Catalogue of the Meteoric Collection of Charles Upham Shep
 
 SJ. bedeutet: Sillimans American Journal,
 
-W. bedeutet: Haidinger, die Meteoriten des k. k. Hof-Naturalien-Cabinets am 30. Mai 1860.
+W. bedeutet: Haidinger, die Meteoriten des k. k. Hof-Naturalien-Kabinetts am 30. Mai 1860.
 
 WA. bedeutet: Sitzungsberichte der mathematisch-naturwissenschaftlichen Klasse der k. Akademie in Wien.
 \paragraph{}
@@ -458,10 +459,14 @@ Nicht Geschwister sind sie, unsere Erde und die auf sie herabfallenden meteorisc
 
 Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene zu betrachten ist, versteht sich wohl von selbst und liegt in der Natur der Sache. Namentlich bedarf die Aufstellung der Karten und Verzeichnisse nicht nur einer fortwährenden Ergänzung und Vervollständigung, sondern auch einer steten Berichtigung, wenn dieselben wirklich einen dauernden Werth besitzen sollen. Es werden daher dem Verfasser Mitteilungen zu diesem Zwecke stets willkommen sein, so wie er auch allen Denen seinen aufrichtigen Dank sagt, welche ihm bisher in seiner Arbeit durch ihre freundlichen Mitteilungen, Berichtigungen und Andeutungen sowie durch sonstige Unterstützung behülflich und förderlich gewesen sind.
 \clearpage
+\vspace*{\fill}
 \section{Europäische Meteorsteinfälle seit dem Jahre 1700, nach den 12 Monaten geordnet.}
+\vspace*{\fill}
+\begin{landscape}
 \begin{table}[!ht]
+    \footnotesize
     \centering
-    \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|}
+    \begin{tabular}{|p{5mm}|p{4mm}|p{13mm}|p{17mm}|p{17mm}|p{4mm}|p{6mm}|p{6mm}|p{6mm}|p{4mm}|p{5mm}|p{4mm}|p{5mm}|p{6mm}|p{5mm}|p{5mm}|p{5mm}|}
     \hline
          &  &  &  &  & Jan. & Febr. & März & April & Mai & Juni & Juli & Aug. & Sept. & Okt. & Nov. & Dez. \\ \hline
         1704 & 24. & Dezember & Barcelona & Spanien & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 24 \\ \hline
@@ -488,6 +493,17 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
         1785 & 19. & Februar & Wittens & Deutschland & ~ & 19 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1787 & 13. & Oktober & Schigailow und Lebedin & Russland & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 13 & ~ & ~ \\ \hline
         1790 & 24. & Juli & Barbotan & Frankreich & ~ & ~ & ~ & ~ & ~ & ~ & 24 & ~ & ~ & ~ & ~ & ~ \\ \hline
+    \end{tabular}
+\end{table}
+\end{landscape}
+\clearpage
+\begin{landscape}
+\begin{table}[!ht]
+    \footnotesize
+    \centering
+    \begin{tabular}{|p{5mm}|p{4mm}|p{13mm}|p{17mm}|p{17mm}|p{4mm}|p{6mm}|p{6mm}|p{6mm}|p{4mm}|p{5mm}|p{4mm}|p{5mm}|p{6mm}|p{5mm}|p{5mm}|p{5mm}|}
+    \hline
+         &  &  &  &  & Jan. & Febr. & März & April & Mai & Juni & Juli & Aug. & Sept. & Okt. & Nov. & Dez. \\ \hline
         1791 & 17. & Mai & Castel-Berardenga & Italien & ~ & ~ & ~ & ~ & 17 & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1794 & 16. & Juni & Siena & Italien & ~ & ~ & ~ & ~ & ~ & 16 & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1795 & 13. & Dezember & Wold-Cottage & England & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 13 \\ \hline
@@ -508,6 +524,17 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
         1808 & 19. & April & Pieve die Casignano & Italien & ~ & ~ & ~ & 19 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1808 & 22. & Mai & Stannern & Mahren & ~ & ~ & ~ & ~ & 22 & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1808 & 3. & September & Stratow und Wustra & Böhmen & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 3 & ~ & ~ & ~ \\ \hline
+    \end{tabular}
+\end{table}
+\end{landscape}
+\clearpage
+\begin{landscape}
+\begin{table}[!ht]
+    \footnotesize
+    \centering
+    \begin{tabular}{|p{5mm}|p{4mm}|p{13mm}|p{17mm}|p{17mm}|p{4mm}|p{6mm}|p{6mm}|p{6mm}|p{4mm}|p{5mm}|p{4mm}|p{5mm}|p{6mm}|p{5mm}|p{5mm}|p{5mm}|}
+    \hline
+         &  &  &  &  & Jan. & Febr. & März & April & Mai & Juni & Juli & Aug. & Sept. & Okt. & Nov. & Dez. \\ \hline
         1810 & M. & August & Mooresfort & Irland & ~ & ~ & ~ & ~ & ~ & ~ & ~ & M. & ~ & ~ & ~ & ~ \\ \hline
         1810 & 23. & November & Charsonville & Frankreich & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 23 & ~ \\ \hline
         1810 & 28. & November & Cerigo & Greichenland & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 28 & ~ \\ \hline
@@ -533,6 +560,17 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
         1820 & 22. & Mai & Oedenburg & Ungarn & ~ & ~ & ~ & ~ & 22 & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1820 & 12. & Juli & Lasdany & Russland & ~ & ~ & ~ & ~ & ~ & ~ & 12 & ~ & ~ & ~ & ~ & ~ \\ \hline
         1820 & 29. & November & Cosenza & Italien & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 29 & ~ \\ \hline
+    \end{tabular}
+\end{table}
+\end{landscape}
+\clearpage
+\begin{landscape}
+\begin{table}[!ht]
+    \footnotesize
+    \centering
+    \begin{tabular}{|p{5mm}|p{4mm}|p{13mm}|p{17mm}|p{17mm}|p{4mm}|p{6mm}|p{6mm}|p{6mm}|p{4mm}|p{5mm}|p{4mm}|p{5mm}|p{6mm}|p{5mm}|p{5mm}|p{5mm}|}
+    \hline
+         &  &  &  &  & Jan. & Febr. & März & April & Mai & Juni & Juli & Aug. & Sept. & Okt. & Nov. & Dez. \\ \hline
         1821 & 15. & Juni & Juvinas & Frankreich & ~ & ~ & ~ & ~ & ~ & 15 & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1821 & 21. & Juni & Mayo. Hagel mit Metallkernen & Irland & ~ & ~ & ~ & ~ & ~ & 21 & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1822 & 3. & Juni & Angers & Frankreich & ~ & ~ & ~ & ~ & ~ & 3 & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
@@ -557,6 +595,17 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
         1837 & 15. & Januar & Mikolowa & Ungarn & 15 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1837 & 24. & Juli & Groß-Divina & Ungarn & ~ & ~ & ~ & ~ & ~ & ~ & 24 & ~ & ~ & ~ & ~ & ~ \\ \hline
         1837 & - & August & Esnandes & Frankreich & ~ & ~ & ~ & ~ & ~ & ~ & ~ & x. & ~ & ~ & ~ & ~ \\ \hline
+    \end{tabular}
+\end{table}
+\end{landscape}
+\clearpage
+\begin{landscape}
+\begin{table}[!ht]
+    \footnotesize
+    \centering
+    \begin{tabular}{|p{5mm}|p{4mm}|p{13mm}|p{17mm}|p{17mm}|p{4mm}|p{6mm}|p{6mm}|p{6mm}|p{4mm}|p{5mm}|p{4mm}|p{5mm}|p{6mm}|p{5mm}|p{5mm}|p{5mm}|}
+    \hline
+         &  &  &  &  & Jan. & Febr. & März & April & Mai & Juni & Juli & Aug. & Sept. & Okt. & Nov. & Dez. \\ \hline
         1840 & 12. & Juni & Uden & Holland & ~ & ~ & ~ & ~ & ~ & 12 & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1840 & 17. & Juli & Cereseto & Italien & ~ & ~ & ~ & ~ & ~ & ~ & 17 & ~ & ~ & ~ & ~ & ~ \\ \hline
         1841 & 22. & März & Seifersholz & Deutschland & ~ & ~ & 22 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
@@ -578,6 +627,17 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
         1846 & 25. & Dezember & Schönenberg & Deutschland & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 25 \\ \hline
         1847 & 14. & Juli & Hauptmannsdorf. Eisen. & Böhmen & ~ & ~ & ~ & ~ & ~ & ~ & 14 & ~ & ~ & ~ & ~ & ~ \\ \hline
         1848 & 27. & Dezember & Schie & Norwegen & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 27 \\ \hline
+    \end{tabular}
+\end{table}
+\end{landscape}
+\clearpage
+\begin{landscape}
+\begin{table}[!ht]
+    \footnotesize
+    \centering
+    \begin{tabular}{|p{5mm}|p{4mm}|p{13mm}|p{17mm}|p{17mm}|p{4mm}|p{6mm}|p{6mm}|p{6mm}|p{4mm}|p{5mm}|p{4mm}|p{5mm}|p{6mm}|p{5mm}|p{5mm}|p{5mm}|}
+    \hline
+         &  &  &  &  & Jan. & Febr. & März & April & Mai & Juni & Juli & Aug. & Sept. & Okt. & Nov. & Dez. \\ \hline
         1850 & 22. & Juni & Oviedo & Spanien & ~ & ~ & ~ & ~ & ~ & 22 & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1851 & 17. & April & Gütersloh & Deutschland & ~ & ~ & ~ & 17 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
         1852 & 4. & September & Fekete und Istento & Ungarn & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 4 & ~ & ~ & ~ \\ \hline
@@ -596,6 +656,7 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
         1858 & 9. & Dezember & Clarae und Aussun & Frankreich & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 9 \\ \hline
     \end{tabular}
 \end{table}
+\end{landscape}
 \clearpage
 \section{Asiatische Meteorsteinfälle seit dem Jahre 1700, nach den zwölf Monaten geordnet.}
 \begin{table}[!ht]
