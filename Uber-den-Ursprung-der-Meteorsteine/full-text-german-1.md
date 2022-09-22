@@ -1149,23 +1149,23 @@ Dass übrigens eine Arbeit wie die gegenwärtige niemals als eine geschlossene z
  8\.     | \-      | \-            | \-       | Nahe am Fluss Vermejo, Prov\. Grand\-Chaco\-Gualamba, 15 M\. von Otumpa \(^^^\) in Tucuman\. 300 Zentner Gefunden 1788\. \- _Sp\.\-Gew\._: 7,54\-7,65\.                                                                                                                                                 | San Jago del Estero \(Rio de la Plata Staaten\) | Ungefähr 25° 0′ S\. bis 26° 0′ S\. \(27\-28°?\) | Ungefähr 60° 0′ W\. bis 62° 0′ W\. | G\. 50\. 1815\. 266\. W\. 1860\. S\. 1860\.                                                      
  9\.     | \-      | \-            | \-       | Am Bache Bemdegó \(Bendegó\), der in den Rio San\-Francisco fällt, 10 Leguas N\. von Monte\-Santo und 50 Leguas von Bahia; Capitanie Bahia\. \- 140 bis 170 Zentner Gefunden 1784\. Auch Eisen von Sergipe oder Wollaston\-Eisen genannt\. \- _Sp\.\-Gew\._: 7,48\-7,88\.                               | Brasilien                                       | 10° 20′ S\.                                  | 40° 10′ W\.                      | G\. 68\. 1821\. 343\. SJ\. 2\. 15\. 1853\. 12\. W\. 1860\. S\. 1860\.                            
 
-*) Chladni gibt in seinem Werke: "Ueber die Feuermeteore und uber die mit denselben herabgefallenen Massen, Wien 1819" Fol. 264 San Michele de Mechede (wahrscheinlich Machede, 38 30 N., 7 34 W., und O. von Evora) als den Ort dieses Steinfalles an; R. P. Greg dagegen in seinem "Essay on Meteorites, 1855" Fol. 37 das bei Evora-Monte gelegene Kirchspiel von Freixo (nicht Friexo).
+*) Chladni gibt in seinem Werke: "Über die Feuermeteore und über die mit denselben herabgefallenen Massen, Wien 1819" Fol. 264 San Michele de Mechede (wahrscheinlich Machede, 38° 30′ N., 7° 34′ W., und O. von Evora) als den Ort dieses Steinfalles an; R. P. Greg dagegen in seinem "Essay on Meteorites, 1855" Fol. 37 das bei Evora-Monte gelegene Kirchspiel von Freixo (nicht Friexo).
 
 *) Robert Southey, Letters written during a journey in Spain and a short residence in Portugal; London 1808.
 
 *) Da der Falltag dieses Steines erst ganz neuerlich bekannt geworden, so findet er sich unter den Seite 357 nach Monaten geordneten Steinfallen noch nicht aufgenommen.
 
-*) C. E. von Moll, Annalen der Berg- und Huttenkunde, Salzburg 1805; Band 3.
+*) C. E. von Moll, Annalen der Berg- und Hüttenkunde, Salzburg 1805; Band 3.
 
-*) Dr. David Livingstone, Missionsreisen und Forschungen in Sud-Afrika. Leipzig 1858.
+*) Dr. David Livingstone, Missionsreisen und Forschungen in Süd-Afrika. Leipzig 1858.
 
-*) The Travels of In Batuta, translated by Sam. Lee; London 1829. Da Ibn Batuta nach Fol. 2 seine Reise, welche 29 Jahre dauerte, im Jahr 1324 von Tanger aus antrat, er etwa in der Mitte derselben nach Birki gekommen sein mag, und der Steinfall nicht sehr lange vor seiner Ankunft stattgefunden zu haben scheint: so geht daraus hervor, dass die in von Hammers Geschichte des Osmannischen Reiches Band 8 Fol. 29 und hiernach in P. 4. 1854. 10. angefuhrte Jahreszahl 1440 auf einem Druckfehler beruht, und statt dessen 1340 heissen soll.
+*) The Travels of In Batuta, translated by Sam. Lee; London 1829. Da Ibn Batuta nach Fol. 2 seine Reise, welche 29 Jahre dauerte, im Jahr 1324 von Tanger aus antrat, er etwa in der Mitte derselben nach Birki gekommen sein mag, und der Steinfall nicht sehr lange vor seiner Ankunft stattgefunden zu haben scheint: so geht daraus hervor, dass die in von Hammers Geschichte des Osmanischen Reiches Band 8 Fol. 29 und hiernach in P. 4. 1854. 10. angeführte Jahreszahl 1440 auf einem Druckfehler beruht, und stattdessen 1340 heißen soll.
 
-*) Diese 2 Meteorsteinfalle (Nr. 24 und Nr. 25) sind erst ganz neuerlich bekannt geworden, daher sie sich auch noch nicht in dem nach Monaten geordneten Verzeichniss auf Seite 358 aufgefuhrt finden.
+*) Diese 2 Meteorsteinfalle (Nr. 24 und Nr. 25) sind erst ganz neuerlich bekannt geworden, daher sie sich auch noch nicht in dem nach Monaten geordneten Verzeichnis auf Seite 358 aufgeführt finden.
 
-*) W. S. Clark, on metallic Meteorites; Giessen 1852.
+*) W. S. Clark, on metallic Meteorites; Gießen 1852.
 
-*) Nach EB. Fol. 17 u. 226 liegt Fei-tch'ing aber 36 20 N. und 116 53 O. im Bezirk von Thaï-ngan-fou, Provinz Chan-toung (Shan-toong). DG. 1. 246 gibt dagegen Po (anstatt Feï-lo oder Feï-tch'ing) als den Ort dieses Steinfalls an.
+*) Nach EB. Fol. 17 u. 226 liegt Feï-tch'ing aber 36° 20′ N. und 116° 53′ O. im Bezirk von Thaï-ngan-fou, Provinz Chan-toung (Shan-toong). DG. 1. 246 gibt dagegen Po (anstatt Feï-lo oder Feï-tch'ing) als den Ort dieses Steinfalls an.
 
 *) Reise-Tagebuch des Missionars Joh. Aug. Miertsching, welcher als Dolmetscher die Nordpol-Expedition zur Aufsuchung Sir John Franklins auf dem Schiff Investigator begleitete. In den Jahren 1850 bis 1854. Gnadau 1855.
 
