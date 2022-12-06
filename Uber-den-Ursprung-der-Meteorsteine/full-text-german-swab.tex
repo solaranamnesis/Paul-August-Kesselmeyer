@@ -31,15 +31,25 @@
 \usepackage[titles]{tocloft}
 \usepackage{sectsty}
 
-\sectionfont{\Huge}
-\subsectionfont{\LARGE}
-\subsubsectionfont{\Large}
-\paragraphfont{\normalsize}
+\usepackage{sectsty}
+\usepackage[titles]{tocloft}
+
+\allsectionsfont{\swabfamily}
+\sectionfont{\swabfamily\LARGE}
+\subsectionfont{\swabfamily\Large}
+\subsubsectionfont{\swabfamily\large}
+
+\paragraphfont{\large}
 \begin{document}
 \swabfamily
 \renewcommand{\contentsname}{
 \swabfamily{Inhaltsverzeichnis}
 }
+
+\renewcommand{\cftsecfont}{\swabfamily}
+\renewcommand{\cftsubsecfont}{\swabfamily}
+\renewcommand{\cftsubsubsecfont}{\swabfamily}
+
 % fix toc page numbers
 \let\origcftsecfont\cft
 \let\origcftsecpagefont\cftsecpagefont
@@ -54,6 +64,9 @@
 \let\origcftsubsubsecafterpnum\cftsubsubsecafterpnum
 \renewcommand{\cftsubsubsecpagefont}{\swabfamily{\origcftsubsubsecpagefont}}
 \renewcommand{\cftsubsubsecafterpnum}{\swabfamily{\origcftsubsubsecafterpnum}}
+
+\renewcommand\thefootnote{\swabfamily{\arabic{footnote}}}
+
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	%\scshape % Use small caps for all text on the title page
@@ -67,7 +80,7 @@
 	
 	\vspace{1\baselineskip} % Whitespace above the title
 	
-	{\scshape\LARGE "Uber den Ursprung der Meteorsteine.}
+	{\scshape\Huge "Uber den Ursprung der Meteorsteine.}
 	
 	\vspace{1\baselineskip} % Whitespace above the title
 
@@ -80,7 +93,7 @@
 	%	Subtitle
 	%------------------------------------------------
 	
-	{\scshape von P. A. Kesselmeyer.} % Subtitle or further description
+	{\scshape\Large Von P. A. Kesselmeyer.} % Subtitle or further description
 	
 	\vspace*{1\baselineskip} % Whitespace under the subtitle
 	% Subtitle or further description
@@ -104,11 +117,12 @@
 \end{titlepage}
 \setlength{\parskip}{1mm plus1mm minus1mm}
 \clearpage
-\tableofcontents
-\clearpage
 \pagestyle{fancy}
 \fancyhf{}
 \cfoot{\swabfamily{\thepage}}
+\tableofcontents
+\clearpage
+\large
 \section*{}
 \hspace*{5mm}A. bedeutet: Arago, Astronomie populaire; Paris u. Leipzig 1857.
 
