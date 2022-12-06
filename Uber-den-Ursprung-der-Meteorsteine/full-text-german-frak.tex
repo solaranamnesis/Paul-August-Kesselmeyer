@@ -31,15 +31,25 @@
 \usepackage[titles]{tocloft}
 \usepackage{sectsty}
 
-\sectionfont{\Huge}
-\subsectionfont{\LARGE}
-\subsubsectionfont{\Large}
+\usepackage{sectsty}
+\usepackage[titles]{tocloft}
+
+\allsectionsfont{\frakfamily}
+\sectionfont{\frakfamily\Huge}
+\subsectionfont{\frakfamily\LARGE}
+\subsubsectionfont{\frakfamily\Large}
+
 \paragraphfont{\normalsize}
 \begin{document}
 \frakfamily
 \renewcommand{\contentsname}{
 \frakfamily{Inhaltsverzeichnis}
 }
+
+\renewcommand{\cftsecfont}{\frakfamily}
+\renewcommand{\cftsubsecfont}{\frakfamily}
+\renewcommand{\cftsubsubsecfont}{\frakfamily}
+
 % fix toc page numbers
 \let\origcftsecfont\cft
 \let\origcftsecpagefont\cftsecpagefont
@@ -54,6 +64,9 @@
 \let\origcftsubsubsecafterpnum\cftsubsubsecafterpnum
 \renewcommand{\cftsubsubsecpagefont}{\frakfamily{\origcftsubsubsecpagefont}}
 \renewcommand{\cftsubsubsecafterpnum}{\frakfamily{\origcftsubsubsecafterpnum}}
+
+\renewcommand\thefootnote{\frakfamily{\arabic{footnote}}}
+
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	%\scshape % Use small caps for all text on the title page
@@ -67,7 +80,7 @@
 	
 	\vspace{1\baselineskip} % Whitespace above the title
 	
-	{\scshape\LARGE "Uber den Ursprung der Meteorsteine.}
+	{\scshape\Huge "Uber den Ursprung der Meteorsteine.}
 	
 	\vspace{1\baselineskip} % Whitespace above the title
 
@@ -80,7 +93,7 @@
 	%	Subtitle
 	%------------------------------------------------
 	
-	{\scshape von P. A. Kesselmeyer.} % Subtitle or further description
+	{\scshape\Large Von P. A. Kesselmeyer.} % Subtitle or further description
 	
 	\vspace*{1\baselineskip} % Whitespace under the subtitle
 	% Subtitle or further description
@@ -104,11 +117,11 @@
 \end{titlepage}
 \setlength{\parskip}{1mm plus1mm minus1mm}
 \clearpage
-\tableofcontents
-\clearpage
 \pagestyle{fancy}
 \fancyhf{}
 \cfoot{\frakfamily{\thepage}}
+\tableofcontents
+\clearpage
 \section*{}
 \hspace*{5mm}A. bedeutet: Arago, Astronomie populaire; Paris u. Leipzig 1857.
 
